@@ -7,7 +7,9 @@ public class Teste {
 	}
 	
 	private static Integer tes() {
+
 		return 11;
+
 	}
 
 }
